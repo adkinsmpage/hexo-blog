@@ -113,8 +113,8 @@ jsonContent:
     excerpt: false
     keywords: false
     text: false
-    raw: false
-    content: true
+    raw: true
+    content: false
     author: false
   posts:
     title: true
@@ -127,8 +127,8 @@ jsonContent:
     excerpt: true
     keywords: false
     text: false
-    raw: false
-    content: true
+    raw: true
+    content: false
     author: false
     categories: true
     tags: true
