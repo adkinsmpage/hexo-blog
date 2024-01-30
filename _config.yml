@@ -102,19 +102,19 @@ jsonContent:
   drafts: false
   file: content.json
   pages:
-    title: false
+    title: true
     slug: false
     date: false
     updated: false
     comments: false
     path: false
     link: false
-    permalink: false
+    permalink: true
     excerpt: false
     keywords: false
     text: false
     raw: false
-    content: false
+    content: true
     author: false
   posts:
     title: true
@@ -128,7 +128,7 @@ jsonContent:
     keywords: false
     text: false
     raw: false
-    content: false
+    content: true
     author: false
     categories: true
     tags: true
