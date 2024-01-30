@@ -132,6 +132,8 @@ jsonContent:
     author: false
     categories: true
     tags: true
+  categories: false
+  tags: false
 
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
