@@ -99,4 +99,4 @@ root，软件也是一个重要部分的啦（
 settings put global webview_provider com.google.android.webview
 ```
 
-之后重启，在开发者模式中的 webview 提供程序中查看，如果出现了新的版本，就代表成功了，点击新版应用即可。如果没有出现新版 webview，可以按照这个试试：<https://blog.csdn.net/weixin_44565784/article/details/126370271>
+之后重启，在开发者模式中的 webview 提供程序中查看，如果出现了新的版本，就代表成功了，点击新版应用即可。如果没有出现新版 webview，可以按照这个试试：[CSDN](https://blog.csdn.net/weixin_44565784/article/details/126370271)
